@@ -39,7 +39,7 @@ export default function Contact() {
                 <span className="ci-icon">⌥</span>
                 <div>
                   <div className="ci-label">GitHub</div>
-                  <div className="ci-value">github.com/aanishpatnaik</div>
+                  <div className="ci-value">github.com/mrsukkk</div>
                 </div>
                 <span className="ci-arrow">→</span>
               </a>

@@ -5,8 +5,8 @@ export const personalInfo = {
   email: "aanishpatnaik31@gmail.com",
   phone: "+91 7853927767",
   location: "Bhubaneswar, India",
-  github: "https://github.com",
-  linkedin: "https://linkedin.com",
+  github: "https://github.com/mrsukkk",
+  linkedin: "https://www.linkedin.com/in/aanishpatnaik/",
   summary:
     "1+ year of experience building production-grade FinTech backend systems and AI/ML solutions. Designed high-throughput fraud detection APIs and distributed data pipelines processing large-scale financial transactions on GCP.",
 };
